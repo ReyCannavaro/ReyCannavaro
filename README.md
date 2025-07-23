@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23159
-Fork on GitHub
-7813
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Rey Cannavaro</h1>
 <h3 align="center">A passionate software engineer from Indonesia</h3>
 
