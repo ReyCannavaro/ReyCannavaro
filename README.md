@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying on **SMK Telkom Sidoarjo**
 
-- 🌱 I’m currently learning **Software Development.**
+- 🌱 I’m currently learning **Website Development.**
 
 - 👨‍💻 All of my projects are available at [github.com/ReyCannavaro](github.com/ReyCannavaro)
 
